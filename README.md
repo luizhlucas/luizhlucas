@@ -7,5 +7,8 @@
 Olá me chamo Luiz, tenho 18 anos, estou cursando Ciências da Computação na UEPB, espero compartilhar do meu aprendizado por aqui!!
 </p>
 <h3>skills</h3>
-<img align="center" alt="luizhlucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img align="center" alt="luizhlucas-Python" height="30" width="40" src="https://imgs.search.brave.com/jQSwAmrI5GnCmB3Cb9c_HTN8RBq6AO5s43ZCf4emxqo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4t/aWNvbnMtcG5nLmZy/ZWVwaWsuY29tLzI1/Ni8xMDUxLzEwNTEy/NzcucG5nP3NlbXQ9/YWlzX2h5YnJpZA">
-
+<div style="display: flex">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+</div>
