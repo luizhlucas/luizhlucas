@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" >
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hello World!</h1></summary>
@@ -11,4 +11,9 @@ Olá me chamo Luiz, tenho 18 anos, estou cursando Ciências da Computação na U
   <img aling="center" alt="Luiz-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 
   <img aling="center" alt="Luiz-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img aling="center" alt="Luiz-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+</div>
+  <h3> 📚 Social Midia</h3>
+<div> 
+  <a href = "luizhlucaspereira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="[htddkedin.com/in/rafaella-ballerini-45875016a](https://www.linkedin.com/in/luiz-henrique-lucas-pereira-65788333a/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
