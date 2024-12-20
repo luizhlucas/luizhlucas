@@ -12,7 +12,7 @@ Olá me chamo Luiz, tenho 18 anos, estou cursando Ciências da Computação na U
   <img aling="center" alt="Luiz-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img aling="center" alt="Luiz-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 </div>
-  <h3> 📚 Social Midia</h3>
+  <h3>Social Midia</h3>
 <div> 
   <a href = "luizhlucaspereira@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
