@@ -6,7 +6,7 @@
 <p>
 Olá me chamo Luiz, tenho 18 anos, estou cursando Ciências da Computação na UEPB, espero compartilhar do meu aprendizado por aqui!!
 </p>
-<h3>Portfólio:https://luizhlucas.github.io/Portfolio/</h3>
+<h3>Portfólio: https://luizhlucas.github.io/Portfolio/</h3>
 <h3>skills</h3>
 <div style="display: flex">
   <img aling="center" alt="Luiz-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 
