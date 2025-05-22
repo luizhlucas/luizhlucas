@@ -4,7 +4,7 @@
     <summary><h1 style="display: inline-block">Hello World!</h1></summary>
 </div>
 <p>
-Olá me chamo Luiz, tenho 18 anos, estou cursando Ciências da Computação na UEPB, espero compartilhar do meu aprendizado por aqui!!
+Olá me chamo Luiz, tenho 19 anos, estou cursando Ciências da Computação na UEPB, espero compartilhar do meu aprendizado por aqui!!
 </p>
 <h3>Portfólio: https://luizhlucas.github.io/Portfolio/</h3>
 <h3>skills</h3>
